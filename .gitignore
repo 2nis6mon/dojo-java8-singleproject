@@ -1,0 +1,6 @@
+.idea
+java8.iml
+target
+.project
+.classpath
+**/.DS_Store
